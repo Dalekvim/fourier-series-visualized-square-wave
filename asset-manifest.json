@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/fourier-series-visualized-square-wave/static/js/main.0196284f.chunk.js",
+    "main.js.map": "/fourier-series-visualized-square-wave/static/js/main.0196284f.chunk.js.map",
+    "runtime-main.js": "/fourier-series-visualized-square-wave/static/js/runtime-main.4c673647.js",
+    "runtime-main.js.map": "/fourier-series-visualized-square-wave/static/js/runtime-main.4c673647.js.map",
+    "static/css/2.717535d4.chunk.css": "/fourier-series-visualized-square-wave/static/css/2.717535d4.chunk.css",
+    "static/js/2.af29d546.chunk.js": "/fourier-series-visualized-square-wave/static/js/2.af29d546.chunk.js",
+    "static/js/2.af29d546.chunk.js.map": "/fourier-series-visualized-square-wave/static/js/2.af29d546.chunk.js.map",
+    "static/js/3.d92c967e.chunk.js": "/fourier-series-visualized-square-wave/static/js/3.d92c967e.chunk.js",
+    "static/js/3.d92c967e.chunk.js.map": "/fourier-series-visualized-square-wave/static/js/3.d92c967e.chunk.js.map",
+    "index.html": "/fourier-series-visualized-square-wave/index.html",
+    "static/css/2.717535d4.chunk.css.map": "/fourier-series-visualized-square-wave/static/css/2.717535d4.chunk.css.map",
+    "static/js/2.af29d546.chunk.js.LICENSE.txt": "/fourier-series-visualized-square-wave/static/js/2.af29d546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c673647.js",
+    "static/css/2.717535d4.chunk.css",
+    "static/js/2.af29d546.chunk.js",
+    "static/js/main.0196284f.chunk.js"
+  ]
+}
