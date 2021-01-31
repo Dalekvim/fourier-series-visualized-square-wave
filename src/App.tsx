@@ -1,26 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import Container from "react-bootstrap/Container";
+import { Canvas } from "./components/canvas";
+import { Slider } from "./components/slider";
 
-function App() {
+export const App: React.FC = () => {
+  const [value, setValue] = useState(1);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <h1>Fourier Series Visualized: Square Wave</h1>
+      <Canvas value={value} />
+      <Slider value={value} setValue={setValue} />
+    </Container>
   );
-}
-
-export default App;
+};
